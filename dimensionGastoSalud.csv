@@ -1,0 +1,12 @@
+gasto_id,descripcion
+NPCFP25BA,Gasto mensual en cuidador
+NPCFP27,Gasto en hospitalizaciones en el ultimo año 
+NPCFP33AA,Gasto en consulta de medicina general ultimos 30 días
+NPCFP33BA,Gasto en consulta con especialista ultimos 30 días
+NPCFP33CA,Gasto en consulta o tratamiento odontológico ultimos 30 días
+NPCFP33DA,Gasto en vacunas ultimos 30 días
+NPCFP33EA,Gasto en  Laboratorio clínico RX exámenes de diagnóstico ultimos 30 días
+NPCFP33FA,Gasto en terapias alternativas ultimos 30 días
+NPCFP34,Gasto en medicamentos ultimos 30 días 
+NPCFP35AA,Gastos  Lentes audífonos o aparatos ortopédicos ultimos 12 meses
+NPCFP35BA,Gastos Cirugías o procedimientos quirúrgicos ambulatorios ultimos 12 meses
